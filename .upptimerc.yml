@@ -1,31 +1,36 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: jwdnl
+repo: jmail-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: JMail web app
+    url: https://jmail.wedare.net
+  - name: JMAP API (mail server)
+    # Unauthenticated hit on the JMAP well-known answers 401 — that IS "up".
+    url: https://mail.wedare.net/.well-known/jmap
+    expectedStatusCodes:
+      - 401
+      - 200
+  - name: SMTP inbound (port 25)
+    check: "tcp-ping"
+    url: mail.wedare.net
+    port: 25
+  - name: SMTP submission (port 465)
+    check: "tcp-ping"
+    url: mail.wedare.net
+    port: 465
+
+assignees:
+  - jwdnl
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /jmail-status
+  name: JMail status
+  introTitle: "**JMail** service status — web app and mail server, checked every ~5 minutes from GitHub's network."
+  introMessage: "This page is hosted outside JMail's own infrastructure on purpose — it stays up when we don't. Questions? [support@wedare.net](mailto:support@wedare.net) · [jmail.wedare.net](https://jmail.wedare.net)"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: JMail
+      href: https://jmail.wedare.net
+    - title: Support
+      href: https://jmail.wedare.net/support
