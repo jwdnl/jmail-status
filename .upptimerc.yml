@@ -26,7 +26,7 @@ status-website:
   baseUrl: /jmail-status
   name: JMail status
   introTitle: "**JMail** service status — web app and mail server, checked every ~5 minutes from GitHub's network."
-  introMessage: "This page is hosted outside JMail's own infrastructure on purpose — it stays up when we don't. Questions? [support@wedare.net](mailto:support@wedare.net) · [jmail.wedare.net](https://jmail.wedare.net)"
+  introMessage: "This page is hosted outside JMail's own infrastructure on purpose — it stays up when we don't. Questions? [support@jdstudio.app](mailto:support@jdstudio.app) · [jmail.wedare.net](https://jmail.wedare.net)"
   navbar:
     - title: Status
       href: /
