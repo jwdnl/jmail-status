@@ -2,8 +2,8 @@ owner: jwdnl
 repo: jmail-status
 
 sites:
-  - name: JMail web app
-    url: https://jmail.wedare.net
+  - name: Jaymail web app
+    url: https://app.jaymail.app
   - name: JMAP API (mail server)
     # Unauthenticated hit on the JMAP well-known answers 401 — that IS "up".
     url: https://mail.wedare.net/.well-known/jmap
@@ -24,13 +24,13 @@ assignees:
 
 status-website:
   baseUrl: /jmail-status
-  name: JMail status
-  introTitle: "**JMail** service status — web app and mail server, checked every ~5 minutes from GitHub's network."
-  introMessage: "This page is hosted outside JMail's own infrastructure on purpose — it stays up when we don't. Questions? [support@jdstudio.app](mailto:support@jdstudio.app) · [jmail.wedare.net](https://jmail.wedare.net)"
+  name: Jaymail status
+  introTitle: "**Jaymail** service status — web app and mail server, checked every ~5 minutes from GitHub's network."
+  introMessage: "This page is hosted outside Jaymail's own infrastructure on purpose — it stays up when we don't. Questions? [support@jdstudio.app](mailto:support@jdstudio.app) · [app.jaymail.app](https://app.jaymail.app)"
   navbar:
     - title: Status
       href: /
-    - title: JMail
-      href: https://jmail.wedare.net
+    - title: Jaymail
+      href: https://app.jaymail.app
     - title: Support
-      href: https://jmail.wedare.net/support
+      href: https://app.jaymail.app/support
