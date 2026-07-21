@@ -18,6 +18,8 @@ sites:
     check: "tcp-ping"
     url: mail.wedare.net
     port: 465
+  - name: Push relay (iOS notifications)
+    url: https://push.wedare.net/status
 
 assignees:
   - jwdnl

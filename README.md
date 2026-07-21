@@ -1,6 +1,6 @@
 # [📈 Live Status](https://jwdnl.github.io/jmail-status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Jordy Dost](www.powerbarn.nl), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Jaymail](https://jaymail.app), made by [JD Studio](https://jdstudio.app), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/jwdnl/jmail-status/workflows/Uptime%20CI/badge.svg)](https://github.com/jwdnl/jmail-status/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/jwdnl/jmail-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/jwdnl/jmail-status/actions/workflows/response-time.yml)
