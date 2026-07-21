@@ -70,5 +70,23 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Push relay (iOS notifications)",
+    "url": "https://push.wedare.net/status",
+    "icon": "https://icons.duckduckgo.com/ip3/push.wedare.net.ico",
+    "slug": "push-relay-i-os-notifications",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 552,
+    "timeDay": 552,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
+    "dailyMinutesDown": {}
   }
 ]
