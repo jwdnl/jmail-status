@@ -22,28 +22,30 @@
     "url": "https://mail.wedare.net/.well-known/jmap",
     "icon": "https://icons.duckduckgo.com/ip3/mail.wedare.net.ico",
     "slug": "jmap-api-mail-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 885,
-    "timeDay": 852,
-    "timeWeek": 899,
-    "timeMonth": 885,
-    "timeYear": 885,
-    "dailyMinutesDown": {}
+    "time": 862,
+    "timeDay": 647,
+    "timeWeek": 842,
+    "timeMonth": 862,
+    "timeYear": 862,
+    "dailyMinutesDown": {
+      "2026-07-23": 1
+    }
   },
   {
     "name": "SMTP inbound (port 25)",
     "url": "mail.wedare.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-inbound-port-25",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
@@ -51,16 +53,18 @@
     "timeWeek": 109,
     "timeMonth": 107,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-23": 1
+    }
   },
   {
     "name": "SMTP submission (port 465)",
     "url": "mail.wedare.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-submission-port-465",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 107,
     "timeMonth": 107,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-23": 0
+    }
   },
   {
     "name": "Push relay (iOS notifications)",
