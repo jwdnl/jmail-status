@@ -1,7 +1,7 @@
 url: https://mail.wedare.net/.well-known/jmap
-status: down
-code: 502
-responseTime: 442
-lastUpdated: 2026-07-23T20:44:08.085Z
+status: up
+code: 200
+responseTime: 928
+lastUpdated: 2026-07-23T21:45:48.765Z
 startTime: 2026-07-06T15:51:40.551Z
 generator: Upptime <https://github.com/upptime/upptime>
