@@ -22,19 +22,19 @@
     "url": "https://mail.wedare.net/.well-known/jmap",
     "icon": "https://icons.duckduckgo.com/ip3/mail.wedare.net.ico",
     "slug": "jmap-api-mail-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 862,
-    "timeDay": 647,
-    "timeWeek": 842,
-    "timeMonth": 862,
-    "timeYear": 862,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "95.72%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 865,
+    "timeDay": 741,
+    "timeWeek": 851,
+    "timeMonth": 865,
+    "timeYear": 865,
     "dailyMinutesDown": {
-      "2026-07-23": 1
+      "2026-07-23": 62
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "mail.wedare.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-inbound-port-25",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 107,
-    "timeDay": 100,
-    "timeWeek": 109,
+    "timeDay": 107,
+    "timeWeek": 110,
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2026-07-23": 1
+      "2026-07-23": 61
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "mail.wedare.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-submission-port-465",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "95.78%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 107,
-    "timeDay": 88,
-    "timeWeek": 107,
+    "timeDay": 99,
+    "timeWeek": 108,
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2026-07-23": 0
+      "2026-07-23": 61
     }
   },
   {
