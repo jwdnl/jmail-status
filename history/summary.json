@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 509,
-    "timeDay": 490,
-    "timeWeek": 547,
-    "timeMonth": 509,
-    "timeYear": 509,
+    "time": 506,
+    "timeDay": 446,
+    "timeWeek": 545,
+    "timeMonth": 506,
+    "timeYear": 506,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.wedare.net.ico",
     "slug": "jmap-api-mail-server",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 891,
-    "timeDay": 1064,
-    "timeWeek": 948,
-    "timeMonth": 891,
-    "timeYear": 891,
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 884,
+    "timeDay": 683,
+    "timeWeek": 944,
+    "timeMonth": 884,
+    "timeYear": 884,
     "dailyMinutesDown": {
       "2026-07-23": 62
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 111,
-    "timeDay": 110,
+    "time": 110,
+    "timeDay": 87,
     "timeWeek": 115,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "timeMonth": 110,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2026-07-23": 61
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 111,
-    "timeDay": 117,
+    "time": 110,
+    "timeDay": 85,
     "timeWeek": 118,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "timeMonth": 110,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2026-07-23": 61
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 610,
-    "timeDay": 585,
-    "timeWeek": 616,
-    "timeMonth": 610,
-    "timeYear": 610,
+    "time": 604,
+    "timeDay": 529,
+    "timeWeek": 628,
+    "timeMonth": 604,
+    "timeYear": 604,
     "dailyMinutesDown": {}
   }
 ]
