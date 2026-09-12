@@ -1,6 +1,10 @@
 owner: jwdnl
 repo: jmail-status
 
+# Public endpoint checks need no additional secrets. GH_PAT is passed separately.
+# Add explicit notification secret names here if external notifications are configured.
+secrets: []
+
 sites:
   - name: Jaymail web app
     url: https://app.jaymail.app
