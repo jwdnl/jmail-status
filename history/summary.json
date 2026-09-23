@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 447,
-    "timeWeek": 498,
-    "timeMonth": 533,
-    "timeYear": 519,
+    "time": 521,
+    "timeDay": 598,
+    "timeWeek": 527,
+    "timeMonth": 545,
+    "timeYear": 521,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.wedare.net.ico",
     "slug": "jmap-api-mail-server",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 903,
-    "timeDay": 683,
-    "timeWeek": 878,
-    "timeMonth": 941,
-    "timeYear": 903,
+    "uptimeYear": "99.95%",
+    "time": 904,
+    "timeDay": 997,
+    "timeWeek": 919,
+    "timeMonth": 957,
+    "timeYear": 904,
     "dailyMinutesDown": {
       "2026-07-23": 62
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 111,
-    "timeDay": 87,
-    "timeWeek": 106,
-    "timeMonth": 114,
+    "timeDay": 131,
+    "timeWeek": 112,
+    "timeMonth": 116,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2026-07-23": 61
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 111,
-    "timeDay": 86,
-    "timeWeek": 106,
-    "timeMonth": 114,
+    "timeDay": 131,
+    "timeWeek": 112,
+    "timeMonth": 116,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2026-07-23": 61
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 470,
-    "timeWeek": 511,
+    "time": 572,
+    "timeDay": 601,
+    "timeWeek": 539,
     "timeMonth": 566,
-    "timeYear": 571,
+    "timeYear": 572,
     "dailyMinutesDown": {}
   }
 ]
