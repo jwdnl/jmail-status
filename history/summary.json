@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-inbound-port-25",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.94%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
     "time": 112,
     "timeDay": 87,
     "timeWeek": 112,
@@ -56,7 +56,7 @@
     "dailyMinutesDown": {
       "2026-07-23": 61,
       "2026-10-30": 9,
-      "2026-10-31": 0
+      "2026-10-31": 29
     }
   },
   {
