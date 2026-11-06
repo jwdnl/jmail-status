@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 740,
-    "timeWeek": 758,
-    "timeMonth": 791,
-    "timeYear": 611,
+    "time": 612,
+    "timeDay": 708,
+    "timeWeek": 724,
+    "timeMonth": 787,
+    "timeYear": 612,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 910,
-    "timeDay": 863,
-    "timeWeek": 884,
-    "timeMonth": 920,
-    "timeYear": 910,
+    "time": 909,
+    "timeDay": 843,
+    "timeWeek": 845,
+    "timeMonth": 916,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2026-07-23": 62
     }
@@ -44,13 +44,13 @@
     "slug": "smtp-inbound-port-25",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "97.74%",
+    "uptimeDay": "98.61%",
     "uptimeWeek": "98.26%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.87%",
     "time": 113,
-    "timeDay": 117,
-    "timeWeek": 114,
+    "timeDay": 115,
+    "timeWeek": 113,
     "timeMonth": 115,
     "timeYear": 113,
     "dailyMinutesDown": {
@@ -76,8 +76,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 113,
-    "timeDay": 114,
-    "timeWeek": 110,
+    "timeDay": 110,
+    "timeWeek": 105,
     "timeMonth": 115,
     "timeYear": 113,
     "dailyMinutesDown": {
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 566,
-    "timeDay": 551,
-    "timeWeek": 530,
-    "timeMonth": 560,
-    "timeYear": 566,
+    "time": 565,
+    "timeDay": 530,
+    "timeWeek": 509,
+    "timeMonth": 559,
+    "timeYear": 565,
     "dailyMinutesDown": {}
   }
 ]
