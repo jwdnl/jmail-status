@@ -42,7 +42,7 @@
     "url": "mail.wedare.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-inbound-port-25",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "89.48%",
     "uptimeWeek": "97.73%",
