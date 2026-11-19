@@ -4,19 +4,19 @@
     "url": "https://app.jaymail.app",
     "icon": "https://icons.duckduckgo.com/ip3/app.jaymail.app.ico",
     "slug": "jaymail-web-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 967,
-    "timeWeek": 774,
-    "timeMonth": 770,
-    "timeYear": 628,
+    "uptimeYear": "99.99%",
+    "time": 630,
+    "timeDay": 936,
+    "timeWeek": 791,
+    "timeMonth": 774,
+    "timeYear": 630,
     "dailyMinutesDown": {
-      "2026-11-19": 9
+      "2026-11-19": 10
     }
   },
   {
@@ -24,20 +24,20 @@
     "url": "https://mail.wedare.net/.well-known/jmap",
     "icon": "https://icons.duckduckgo.com/ip3/mail.wedare.net.ico",
     "slug": "jmap-api-mail-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 909,
-    "timeDay": 1210,
-    "timeWeek": 914,
-    "timeMonth": 897,
-    "timeYear": 909,
+    "time": 910,
+    "timeDay": 1137,
+    "timeWeek": 933,
+    "timeMonth": 902,
+    "timeYear": 910,
     "dailyMinutesDown": {
       "2026-07-23": 62,
-      "2026-11-19": 4
+      "2026-11-19": 5
     }
   },
   {
@@ -45,14 +45,14 @@
     "url": "mail.wedare.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-inbound-port-25",
-    "status": "down",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "89.57%",
-    "uptimeWeek": "90.55%",
+    "uptimeDay": "89.53%",
+    "uptimeWeek": "90.54%",
     "uptimeMonth": "97.82%",
     "uptimeYear": "99.51%",
     "time": 114,
-    "timeDay": 125,
+    "timeDay": 126,
     "timeWeek": 114,
     "timeMonth": 114,
     "timeYear": 114,
@@ -61,7 +61,7 @@
       "2026-11-16": 447,
       "2026-11-17": 112,
       "2026-11-18": 168,
-      "2026-11-19": 126
+      "2026-11-19": 127
     }
   },
   {
