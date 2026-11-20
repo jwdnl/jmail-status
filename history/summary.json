@@ -10,11 +10,11 @@
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 632,
-    "timeDay": 852,
-    "timeWeek": 809,
-    "timeMonth": 777,
-    "timeYear": 632,
+    "time": 635,
+    "timeDay": 955,
+    "timeWeek": 842,
+    "timeMonth": 788,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2026-11-19": 10
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 912,
-    "timeDay": 1163,
-    "timeWeek": 976,
-    "timeMonth": 911,
-    "timeYear": 912,
+    "time": 913,
+    "timeDay": 1078,
+    "timeWeek": 1004,
+    "timeMonth": 922,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2026-07-23": 62,
       "2026-11-19": 5
@@ -45,14 +45,14 @@
     "url": "mail.wedare.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-inbound-port-25",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "90.81%",
-    "uptimeWeek": "92.90%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "99.64%",
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "90.07%",
+    "uptimeWeek": "92.80%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "99.63%",
     "time": 114,
-    "timeDay": 119,
+    "timeDay": 117,
     "timeWeek": 115,
     "timeMonth": 114,
     "timeYear": 114,
@@ -61,7 +61,7 @@
       "2026-11-17": 112,
       "2026-11-18": 168,
       "2026-11-19": 130,
-      "2026-11-20": 132
+      "2026-11-20": 143
     }
   },
   {
@@ -76,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 113,
-    "timeDay": 134,
-    "timeWeek": 123,
-    "timeMonth": 115,
+    "timeDay": 149,
+    "timeWeek": 129,
+    "timeMonth": 117,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2026-07-23": 61
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 579,
-    "timeWeek": 534,
-    "timeMonth": 543,
-    "timeYear": 561,
+    "time": 562,
+    "timeDay": 609,
+    "timeWeek": 556,
+    "timeMonth": 546,
+    "timeYear": 562,
     "dailyMinutesDown": {}
   }
 ]
