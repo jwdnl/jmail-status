@@ -45,11 +45,11 @@
     "url": "mail.wedare.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-inbound-port-25",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "88.31%",
-    "uptimeWeek": "92.60%",
-    "uptimeMonth": "98.30%",
+    "uptimeDay": "88.17%",
+    "uptimeWeek": "92.57%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "99.63%",
     "time": 114,
     "timeDay": 120,
@@ -62,7 +62,7 @@
       "2026-11-21": 124,
       "2026-11-22": 100,
       "2026-11-23": 139,
-      "2026-11-24": 107
+      "2026-11-24": 110
     }
   },
   {
